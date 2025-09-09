@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pn1ZltnOL06DLaODWruRCg" Reference="iBahYwoI00ewbOpxl3fq3A/DzETBSvBg0CuQqmQFqOmlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallengeocr.azurewebsites.net" CVScreenId="e0b257a4-18c5-401c-aeef-df7ca9c225c3" DesignTimeRectangle="1793, 419, 593, 47" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='tableSandbox' tag='TABLE' /&gt;&lt;webctrl tableCol='2' tableRow='{0}' tag='TD' /&gt;&quot;, lineCounter)]" Guid="941e325c-79cd-4dd7-9f58-38a8c540f4cd" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Challenge - OCR' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e980905b860f5d7d09b3489d3cf46dfc.png" xmlns="">0lJX8OrLAHEunrenfRG7CWA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="lineCounter">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>2</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

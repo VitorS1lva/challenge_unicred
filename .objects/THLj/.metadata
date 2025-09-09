@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome O que há de novo",
+  "Type": "App",
+  "Id": "THLjcI9jvUK1OF8e52GYVg",
+  "Reference": "iBahYwoI00ewbOpxl3fq3A/THLjcI9jvUK1OF8e52GYVg",
+  "Created": "2025-09-08T13:42:36.70802Z",
+  "Updated": "2025-09-08T13:42:36.70802Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

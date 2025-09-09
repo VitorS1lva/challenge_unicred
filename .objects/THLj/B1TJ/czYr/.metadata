@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome O que há de novo",
+  "Type": "Screen",
+  "Id": "czYrRhn4ykm7y7p5vHUULg",
+  "Reference": "iBahYwoI00ewbOpxl3fq3A/czYrRhn4ykm7y7p5vHUULg",
+  "ParentRef": "iBahYwoI00ewbOpxl3fq3A/B1TJCwOA70q04aTjPnsP-w",
+  "Created": "2025-09-08T13:42:36.7364738Z",
+  "Updated": "2025-09-08T13:42:36.7364738Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
